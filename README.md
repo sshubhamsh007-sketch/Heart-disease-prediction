@@ -60,12 +60,18 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+📸 Screenshot 1
+
+<img width="474" height="763" alt="Screenshot 2026-04-09 172332" src="https://github.com/user-attachments/assets/bc91bb1b-e04a-4e48-8768-717b08dc51cf" />
+
+📸 Screenshot 2
+
+<img width="468" height="778" alt="Screenshot 2026-04-09 172416" src="https://github.com/user-attachments/assets/ae0c7353-c5e0-4415-afe2-b22786550a68" />
+
+
  📊 Model Information
 
 * Algorithm Used: Logistic Regression
 * Accuracy: 86%
 * Problem Type: Classification
-
-
-
-
+  
